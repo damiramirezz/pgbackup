@@ -14,5 +14,5 @@ setup(
     long_description = long_description,
     long_description_content_type = 'text/markdown',
     url = 'https://github.com/damiramriez/pgbackup'
-    packages = find_packages('src')
+    packages = find_packages('src'),
 )
